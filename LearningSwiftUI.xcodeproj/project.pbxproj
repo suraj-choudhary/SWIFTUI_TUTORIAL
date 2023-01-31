@@ -14,6 +14,7 @@
 		17189674296D016B00BFDEB8 /* HowToUsePadding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17189673296D016B00BFDEB8 /* HowToUsePadding.swift */; };
 		17189676296D073D00BFDEB8 /* HowToUseSpacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17189675296D073D00BFDEB8 /* HowToUseSpacer.swift */; };
 		17249F9E2989B5EF008177C9 /* TernaryOperter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17249F9D2989B5EF008177C9 /* TernaryOperter.swift */; };
+		17249FA02989BA93008177C9 /* AnimationSwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17249F9F2989BA93008177C9 /* AnimationSwiftUI.swift */; };
 		1727EEA82987065A0086C812 /* BindingTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1727EEA72987065A0086C812 /* BindingTutorial.swift */; };
 		1728F6C029787E8B008537BA /* HowToUseLazyGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1728F6BF29787E8B008537BA /* HowToUseLazyGrid.swift */; };
 		173810942965452000173237 /* HowToUseShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 173810932965452000173237 /* HowToUseShape.swift */; };
@@ -43,6 +44,7 @@
 		17189673296D016B00BFDEB8 /* HowToUsePadding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUsePadding.swift; sourceTree = "<group>"; };
 		17189675296D073D00BFDEB8 /* HowToUseSpacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUseSpacer.swift; sourceTree = "<group>"; };
 		17249F9D2989B5EF008177C9 /* TernaryOperter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryOperter.swift; sourceTree = "<group>"; };
+		17249F9F2989BA93008177C9 /* AnimationSwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationSwiftUI.swift; sourceTree = "<group>"; };
 		1727EEA72987065A0086C812 /* BindingTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingTutorial.swift; sourceTree = "<group>"; };
 		1728F6BF29787E8B008537BA /* HowToUseLazyGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUseLazyGrid.swift; sourceTree = "<group>"; };
 		173810932965452000173237 /* HowToUseShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUseShape.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				1727EEA72987065A0086C812 /* BindingTutorial.swift */,
 				17EEF77B29885949006EE9F7 /* ConditionalStatement.swift */,
 				17249F9D2989B5EF008177C9 /* TernaryOperter.swift */,
+				17249F9F2989BA93008177C9 /* AnimationSwiftUI.swift */,
 				17841174295B79DB00D67C1B /* Assets.xcassets */,
 				17841176295B79DB00D67C1B /* Preview Content */,
 			);
@@ -207,6 +210,7 @@
 				1727EEA82987065A0086C812 /* BindingTutorial.swift in Sources */,
 				178A793A29676B3F00D909A1 /* HowToUseImage.swift in Sources */,
 				174672D5297B7FC2008D1A56 /* safeAreaBootcamp.swift in Sources */,
+				17249FA02989BA93008177C9 /* AnimationSwiftUI.swift in Sources */,
 				17BC03BA29846B72002EFC1E /* HowToExactFunction.swift in Sources */,
 				17249F9E2989B5EF008177C9 /* TernaryOperter.swift in Sources */,
 				179899CC297F22BE00527FB1 /* HowToUseState.swift in Sources */,
