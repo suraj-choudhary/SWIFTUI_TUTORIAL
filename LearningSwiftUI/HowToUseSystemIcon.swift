@@ -24,9 +24,6 @@ struct HowToUseSystemIcon: View {
 //            .clipped()
         
         
-        
-        
-        
     }
 }
 
