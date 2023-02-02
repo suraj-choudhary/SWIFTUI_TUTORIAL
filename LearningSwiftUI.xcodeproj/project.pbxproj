@@ -29,6 +29,7 @@
 		178A79382967575900D909A1 /* HowToUseSystemIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178A79372967575900D909A1 /* HowToUseSystemIcon.swift */; };
 		178A793A29676B3F00D909A1 /* HowToUseImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178A793929676B3F00D909A1 /* HowToUseImage.swift */; };
 		178A793C2967739B00D909A1 /* HowToUseFrame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178A793B2967739B00D909A1 /* HowToUseFrame.swift */; };
+		178EFF1E298C47570067598F /* AnimationCurve.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178EFF1D298C47570067598F /* AnimationCurve.swift */; };
 		179899CC297F22BE00527FB1 /* HowToUseState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 179899CB297F22BE00527FB1 /* HowToUseState.swift */; };
 		17BC03BA29846B72002EFC1E /* HowToExactFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BC03B929846B72002EFC1E /* HowToExactFunction.swift */; };
 		17BC03BC29846F2F002EFC1E /* HowToExractSubview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BC03BB29846F2F002EFC1E /* HowToExractSubview.swift */; };
@@ -60,6 +61,7 @@
 		178A79372967575900D909A1 /* HowToUseSystemIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUseSystemIcon.swift; sourceTree = "<group>"; };
 		178A793929676B3F00D909A1 /* HowToUseImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUseImage.swift; sourceTree = "<group>"; };
 		178A793B2967739B00D909A1 /* HowToUseFrame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUseFrame.swift; sourceTree = "<group>"; };
+		178EFF1D298C47570067598F /* AnimationCurve.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationCurve.swift; sourceTree = "<group>"; };
 		179899CB297F22BE00527FB1 /* HowToUseState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUseState.swift; sourceTree = "<group>"; };
 		17BC03B929846B72002EFC1E /* HowToExactFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToExactFunction.swift; sourceTree = "<group>"; };
 		17BC03BB29846F2F002EFC1E /* HowToExractSubview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToExractSubview.swift; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 				17EEF77B29885949006EE9F7 /* ConditionalStatement.swift */,
 				17249F9D2989B5EF008177C9 /* TernaryOperter.swift */,
 				17249F9F2989BA93008177C9 /* AnimationSwiftUI.swift */,
+				178EFF1D298C47570067598F /* AnimationCurve.swift */,
 				17841174295B79DB00D67C1B /* Assets.xcassets */,
 				17841176295B79DB00D67C1B /* Preview Content */,
 			);
@@ -216,6 +219,7 @@
 				179899CC297F22BE00527FB1 /* HowToUseState.swift in Sources */,
 				173810982965534D00173237 /* HowToUseGradient.swift in Sources */,
 				17841171295B79DA00D67C1B /* LearningSwiftUIApp.swift in Sources */,
+				178EFF1E298C47570067598F /* AnimationCurve.swift in Sources */,
 				17189674296D016B00BFDEB8 /* HowToUsePadding.swift in Sources */,
 				1728F6C029787E8B008537BA /* HowToUseLazyGrid.swift in Sources */,
 				17D50A672968B3990056CB1F /* HowToUseOverlay.swift in Sources */,
