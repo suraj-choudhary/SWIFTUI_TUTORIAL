@@ -22,6 +22,7 @@
 		173810982965534D00173237 /* HowToUseGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 173810972965534D00173237 /* HowToUseGradient.swift */; };
 		174672D5297B7FC2008D1A56 /* safeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 174672D4297B7FC2008D1A56 /* safeAreaBootcamp.swift */; };
 		174672D7297B857E008D1A56 /* HowToUseButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 174672D6297B857E008D1A56 /* HowToUseButton.swift */; };
+		1750689A29942C16007CAF80 /* PopOverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1750689929942C16007CAF80 /* PopOverBootcamp.swift */; };
 		17841171295B79DA00D67C1B /* LearningSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17841170295B79DA00D67C1B /* LearningSwiftUIApp.swift */; };
 		17841173295B79DA00D67C1B /* TexBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17841172295B79DA00D67C1B /* TexBootCamp.swift */; };
 		17841175295B79DB00D67C1B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17841174295B79DB00D67C1B /* Assets.xcassets */; };
@@ -30,7 +31,9 @@
 		178A793A29676B3F00D909A1 /* HowToUseImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178A793929676B3F00D909A1 /* HowToUseImage.swift */; };
 		178A793C2967739B00D909A1 /* HowToUseFrame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178A793B2967739B00D909A1 /* HowToUseFrame.swift */; };
 		178EFF1E298C47570067598F /* AnimationCurve.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178EFF1D298C47570067598F /* AnimationCurve.swift */; };
+		178EFF20298C5CB10067598F /* HowToUseTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 178EFF1F298C5CB10067598F /* HowToUseTransition.swift */; };
 		179899CC297F22BE00527FB1 /* HowToUseState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 179899CB297F22BE00527FB1 /* HowToUseState.swift */; };
+		17A5F9D5298F439100AD44D2 /* sheetBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17A5F9D4298F439100AD44D2 /* sheetBootCamp.swift */; };
 		17BC03BA29846B72002EFC1E /* HowToExactFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BC03B929846B72002EFC1E /* HowToExactFunction.swift */; };
 		17BC03BC29846F2F002EFC1E /* HowToExractSubview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17BC03BB29846F2F002EFC1E /* HowToExractSubview.swift */; };
 		17D50A672968B3990056CB1F /* HowToUseOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17D50A662968B3990056CB1F /* HowToUseOverlay.swift */; };
@@ -53,6 +56,7 @@
 		173810972965534D00173237 /* HowToUseGradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUseGradient.swift; sourceTree = "<group>"; };
 		174672D4297B7FC2008D1A56 /* safeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = safeAreaBootcamp.swift; sourceTree = "<group>"; };
 		174672D6297B857E008D1A56 /* HowToUseButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUseButton.swift; sourceTree = "<group>"; };
+		1750689929942C16007CAF80 /* PopOverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopOverBootcamp.swift; sourceTree = "<group>"; };
 		1784116D295B79DA00D67C1B /* LearningSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		17841170295B79DA00D67C1B /* LearningSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningSwiftUIApp.swift; sourceTree = "<group>"; };
 		17841172295B79DA00D67C1B /* TexBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TexBootCamp.swift; sourceTree = "<group>"; };
@@ -62,7 +66,9 @@
 		178A793929676B3F00D909A1 /* HowToUseImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUseImage.swift; sourceTree = "<group>"; };
 		178A793B2967739B00D909A1 /* HowToUseFrame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUseFrame.swift; sourceTree = "<group>"; };
 		178EFF1D298C47570067598F /* AnimationCurve.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationCurve.swift; sourceTree = "<group>"; };
+		178EFF1F298C5CB10067598F /* HowToUseTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUseTransition.swift; sourceTree = "<group>"; };
 		179899CB297F22BE00527FB1 /* HowToUseState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUseState.swift; sourceTree = "<group>"; };
+		17A5F9D4298F439100AD44D2 /* sheetBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sheetBootCamp.swift; sourceTree = "<group>"; };
 		17BC03B929846B72002EFC1E /* HowToExactFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToExactFunction.swift; sourceTree = "<group>"; };
 		17BC03BB29846F2F002EFC1E /* HowToExractSubview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToExractSubview.swift; sourceTree = "<group>"; };
 		17D50A662968B3990056CB1F /* HowToUseOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToUseOverlay.swift; sourceTree = "<group>"; };
@@ -125,6 +131,9 @@
 				17249F9D2989B5EF008177C9 /* TernaryOperter.swift */,
 				17249F9F2989BA93008177C9 /* AnimationSwiftUI.swift */,
 				178EFF1D298C47570067598F /* AnimationCurve.swift */,
+				178EFF1F298C5CB10067598F /* HowToUseTransition.swift */,
+				17A5F9D4298F439100AD44D2 /* sheetBootCamp.swift */,
+				1750689929942C16007CAF80 /* PopOverBootcamp.swift */,
 				17841174295B79DB00D67C1B /* Assets.xcassets */,
 				17841176295B79DB00D67C1B /* Preview Content */,
 			);
@@ -217,8 +226,10 @@
 				17BC03BA29846B72002EFC1E /* HowToExactFunction.swift in Sources */,
 				17249F9E2989B5EF008177C9 /* TernaryOperter.swift in Sources */,
 				179899CC297F22BE00527FB1 /* HowToUseState.swift in Sources */,
+				17A5F9D5298F439100AD44D2 /* sheetBootCamp.swift in Sources */,
 				173810982965534D00173237 /* HowToUseGradient.swift in Sources */,
 				17841171295B79DA00D67C1B /* LearningSwiftUIApp.swift in Sources */,
+				178EFF20298C5CB10067598F /* HowToUseTransition.swift in Sources */,
 				178EFF1E298C47570067598F /* AnimationCurve.swift in Sources */,
 				17189674296D016B00BFDEB8 /* HowToUsePadding.swift in Sources */,
 				1728F6C029787E8B008537BA /* HowToUseLazyGrid.swift in Sources */,
@@ -230,6 +241,7 @@
 				170A0F2B2975EE4B008CF756 /* HowToUseInit.swift in Sources */,
 				173810942965452000173237 /* HowToUseShape.swift in Sources */,
 				1738109629654B3400173237 /* HowToUseColor.swift in Sources */,
+				1750689A29942C16007CAF80 /* PopOverBootcamp.swift in Sources */,
 				17BC03BC29846F2F002EFC1E /* HowToExractSubview.swift in Sources */,
 				178A79382967575900D909A1 /* HowToUseSystemIcon.swift in Sources */,
 				174672D7297B857E008D1A56 /* HowToUseButton.swift in Sources */,

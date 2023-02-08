@@ -10,7 +10,7 @@ import SwiftUI
 struct LearningSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            BindingTutorial()
+            HowToUseTransition()
         }
     }
 }
